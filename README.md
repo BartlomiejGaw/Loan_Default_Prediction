@@ -18,7 +18,7 @@ The goal of this project is to develop a predictive model that can effectively p
 
 ## Notebooks Overview
 
-1. **Data Preprocessing and Exploratory Data Analysi**:
+1. **Data Preprocessing and Exploratory Data Analysis**:
    - Handling missing values using KNN imputation.
    - Cleaning and transforming data to prepare for analysis.
    - Exploring relationships and distributions within the dataset.
@@ -26,6 +26,7 @@ The goal of this project is to develop a predictive model that can effectively p
 2. **Feature Selection and Model Building**:
    - Using IV to select features most predictive of loan defaults.
    - Implementing various machine learning models (e.g., Logistic Regression, Decission Tree, etc.) to predict loan defaults.
+   - Hyperparamater tuning using Grid Search.
    - Evaluating model performance metrics.
-   - Optionally, focusing on minimizing False Negatives to reduce the risk of approving loans that may default.
+
    
